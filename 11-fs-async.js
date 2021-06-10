@@ -21,7 +21,6 @@ readFile('./content/first.txt', 'utf8', (err, result) => {
                 return
             }
         console.log('Finished wrting file')
-
         })
 
     })
